@@ -1,4 +1,4 @@
-name: Website Capstone
+name: Website-Capstone
 on:
   push:
     branches: [ master ]
