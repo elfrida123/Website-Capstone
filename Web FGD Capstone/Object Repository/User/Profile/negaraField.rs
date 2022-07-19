@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>negaraField</name>
+   <tag></tag>
+   <elementGuidId>21a8b31b-57aa-432b-af43-471dccb42e58</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>/html/body/div/div/div/div[2]/div[2]/form/div[7]/input</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html/body/div/div/div/div[2]/div[2]/form/div[7]/input</value>
+      <webElementGuid>596a2917-49df-42a9-8786-522fd284a946</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btnNewestThread</name>
+   <tag></tag>
+   <elementGuidId>252e1126-4abc-4621-ab99-221139d8c4f7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;root&quot;]/div/div/div[2]/div[1]/a[1]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;root&quot;]/div/div/div[2]/div[1]/a[1]/a</value>
+      <webElementGuid>e6494e3e-6ace-427e-ae07-8811dc265d07</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

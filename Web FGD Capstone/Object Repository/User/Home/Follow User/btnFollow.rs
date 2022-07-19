@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btnFollow</name>
+   <tag></tag>
+   <elementGuidId>f2cf82dd-3094-40e1-be06-e9db5086349a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;root&quot;]/div/div/div[3]/div/ul/li[2]/button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;root&quot;]/div/div/div[3]/div/ul/li[2]/button</value>
+      <webElementGuid>5c0c9092-f96c-432b-a948-94fbb04179d0</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

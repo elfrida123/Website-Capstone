@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>iconComment</name>
+   <tag></tag>
+   <elementGuidId>c54c219b-82f4-45b7-8932-3d66f6216671</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;root&quot;]/div/div/div[2]/div[2]/div[1]/div/div/div[2]/div[2]/div[1]/div/button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;root&quot;]/div/div/div[2]/div[2]/div[1]/div/div/div[2]/div[2]/div[1]/div/button</value>
+      <webElementGuid>da47bc9f-3e99-478b-9916-3b111d9a4c7b</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

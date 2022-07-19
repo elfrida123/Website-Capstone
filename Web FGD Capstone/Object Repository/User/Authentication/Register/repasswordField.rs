@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>repasswordField</name>
+   <tag></tag>
+   <elementGuidId>67998514-8c33-4c65-ad88-4e98ea5e52cf</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>/html/body/div/div/div/div/div/div/div/div[2]/div/div/form/div[4]/input</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html/body/div/div/div/div/div/div/div/div[2]/div/div/form/div[4]/input</value>
+      <webElementGuid>b3ded54e-5dad-47c8-9a63-29862ba1a61c</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

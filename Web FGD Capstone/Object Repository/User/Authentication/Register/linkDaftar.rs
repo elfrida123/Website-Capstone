@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>linkDaftar</name>
+   <tag></tag>
+   <elementGuidId>e0299706-2228-4bfe-93d2-4688ad5bc42d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>/html/body/div/div/nav/div/div/ul/li[2]/a/button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html/body/div/div/nav/div/div/ul/li[2]/a/button</value>
+      <webElementGuid>230de2f1-ea1d-4087-96fa-780f19b877a2</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

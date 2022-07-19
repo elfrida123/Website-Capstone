@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>passwordField</name>
+   <tag></tag>
+   <elementGuidId>cd4ec4a6-a5e8-4f43-960e-d24dc6db8fcd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>/html/body/div/div/div/div/div/div/div/div[2]/div/div/form/div[3]/input</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html/body/div/div/div/div/div/div/div/div[2]/div/div/form/div[3]/input</value>
+      <webElementGuid>c5a9da1d-e24a-41ca-a152-3ae71d0d8f43</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

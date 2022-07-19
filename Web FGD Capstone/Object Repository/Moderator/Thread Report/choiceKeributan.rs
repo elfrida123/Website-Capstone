@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>choiceKeributan</name>
+   <tag></tag>
+   <elementGuidId>7332939d-8e56-450e-b010-61e2df73525b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;long-menu&quot;]/div[3]/ul/li[5]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;long-menu&quot;]/div[3]/ul/li[5]</value>
+      <webElementGuid>b06b0de1-560f-4440-9f33-49b0b0617273</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

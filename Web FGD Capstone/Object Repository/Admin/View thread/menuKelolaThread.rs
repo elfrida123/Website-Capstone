@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>menuKelolaThread</name>
+   <tag></tag>
+   <elementGuidId>02a7c6af-eaf5-434a-9031-135dd6b6ef60</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;root&quot;]/div/div/div[1]/div/ul/a[2]/li/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;root&quot;]/div/div/div[1]/div/ul/a[2]/li/div[2]</value>
+      <webElementGuid>32b28577-63ed-492c-a7fc-5e0e9805628c</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>unreadMenu</name>
+   <tag></tag>
+   <elementGuidId>daa1b598-4c44-4a95-94b2-2c2e88a6655c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>/html/body/div/div/div/section/div/div[2]/div/button[2]/div/p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html/body/div/div/div/section/div/div[2]/div/button[2]/div/p</value>
+      <webElementGuid>0f19bebc-3198-48e4-8651-74cda6e466e2</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

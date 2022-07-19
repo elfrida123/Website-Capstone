@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btnNotification</name>
+   <tag></tag>
+   <elementGuidId>5a848472-605f-4a65-96ad-ba2bcfa7ea43</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;root&quot;]/div/div/div[1]/div/ul/a[2]/li/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;root&quot;]/div/div/div[1]/div/ul/a[2]/li/div[2]</value>
+      <webElementGuid>913f0896-a599-4635-a14f-287501f0a0fd</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

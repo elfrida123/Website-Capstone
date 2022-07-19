@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>allMenu</name>
+   <tag></tag>
+   <elementGuidId>6f54415b-8bea-4e61-a937-5a512d299127</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;root&quot;]/div/div/section/div/div[2]/div/button[2]/div/p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;root&quot;]/div/div/section/div/div[2]/div/button[2]/div/p</value>
+      <webElementGuid>040ccbff-0286-4362-96ae-1cac5ede50c7</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>kodePosField</name>
+   <tag></tag>
+   <elementGuidId>794a36cc-677c-4ac6-bdee-b3d47032ac54</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>/html/body/div/div/div/div[2]/div[2]/form/div[9]/input</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html/body/div/div/div/div[2]/div[2]/form/div[9]/input</value>
+      <webElementGuid>22b4b2ce-df5d-4473-927d-5d30b4cd2d79</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

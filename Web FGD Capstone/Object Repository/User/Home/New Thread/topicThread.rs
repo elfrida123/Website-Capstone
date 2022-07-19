@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>topicThread</name>
+   <tag></tag>
+   <elementGuidId>f46a2b83-2dcf-4963-9afd-c239e8436abe</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;root&quot;]/div/div/div/div[2]/form/div[2]/textarea</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;root&quot;]/div/div/div/div[2]/form/div[2]/textarea</value>
+      <webElementGuid>897f22dd-912f-463b-b011-abbe1abb56ca</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

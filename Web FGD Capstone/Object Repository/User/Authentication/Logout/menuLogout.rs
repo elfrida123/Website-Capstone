@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>menuLogout</name>
+   <tag></tag>
+   <elementGuidId>3a82e203-d67a-4534-8aae-241867bc550d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;navbarNav&quot;]/ul[2]/li/div/div/a[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;navbarNav&quot;]/ul[2]/li/div/div/a[2]</value>
+      <webElementGuid>be7fe025-7195-4b22-a6c9-1c72aa728670</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>namaDepanField</name>
+   <tag></tag>
+   <elementGuidId>25d8639b-64ba-4b62-ae99-d9543cd02bf0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;root&quot;]/div/div/div[2]/div[2]/form/div[1]/input</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;root&quot;]/div/div/div[2]/div[2]/form/div[1]/input</value>
+      <webElementGuid>32fb35ec-bac3-4693-b4d3-24bbf4f5f539</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

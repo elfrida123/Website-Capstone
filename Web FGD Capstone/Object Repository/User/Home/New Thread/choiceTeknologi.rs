@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>choiceTeknologi</name>
+   <tag></tag>
+   <elementGuidId>eb1d780e-bc62-4e2e-b517-291c5a3fa7d5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;root&quot;]/div/div/div/div[2]/form/div[1]/div/div[4]/select/option[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;root&quot;]/div/div/div/div[2]/form/div[1]/div/div[4]/select/option[2]</value>
+      <webElementGuid>8c6cf9a9-ae1a-4dab-8347-47d6e705887d</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

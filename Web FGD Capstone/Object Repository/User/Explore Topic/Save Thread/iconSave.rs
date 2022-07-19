@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>iconSave</name>
+   <tag></tag>
+   <elementGuidId>cf208b1a-adc5-4088-9fc2-4dcccd40cebe</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;root&quot;]/div/div/div[2]/div[2]/div[1]/div[1]/div/div[2]/div[2]/div[2]/div/span/input</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;root&quot;]/div/div/div[2]/div[2]/div[1]/div[1]/div/div[2]/div[2]/div[2]/div/span/input</value>
+      <webElementGuid>66ae2032-c2b7-4784-9bcb-37b865dc9208</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>reportIcon</name>
+   <tag></tag>
+   <elementGuidId>b857f106-b847-42c1-82d1-25409b075c9d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>/html/body/div/div/div/div[2]/div[2]/div[3]/div/div/div[2]/div[1]/div[3]/div/button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html/body/div/div/div/div[2]/div[2]/div[3]/div/div/div[2]/div[1]/div[3]/div/button</value>
+      <webElementGuid>19c06902-4e40-4907-9085-d032e3ec2b5f</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>handphoneField</name>
+   <tag></tag>
+   <elementGuidId>791495b6-43a4-4cd4-967a-59729fe2d13c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>/html/body/div/div/div/div[2]/div[2]/form/div[3]/input</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html/body/div/div/div/div[2]/div[2]/form/div[3]/input</value>
+      <webElementGuid>188454cb-f213-41f2-83ba-7a6dee0e2a0d</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

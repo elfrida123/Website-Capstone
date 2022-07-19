@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description>//*[@id=&quot;root&quot;]/div/div/div[2]/div[2]/div[6]/ul/li[3]/a</description>
+   <name>nextPage</name>
+   <tag></tag>
+   <elementGuidId>ccbbd343-fdc2-40e1-bbd2-fe9e57365bba</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;root&quot;]/div/div/div[2]/div[2]/div[6]/ul/li[3]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;root&quot;]/div/div/div[2]/div[2]/div[6]/ul/li[3]/a</value>
+      <webElementGuid>c340fd6a-0cde-4589-a47b-35872732df76</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

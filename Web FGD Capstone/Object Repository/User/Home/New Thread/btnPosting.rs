@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btnPosting</name>
+   <tag></tag>
+   <elementGuidId>1ee77423-8c8e-43a6-ad16-886e4b09ecd0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;root&quot;]/div/div/div/div[2]/form/div[3]/button[1]/div/p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;root&quot;]/div/div/div/div[2]/form/div[3]/button[1]/div/p</value>
+      <webElementGuid>2af0eab9-bfe4-4892-b96a-de5c3d317e28</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

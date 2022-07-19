@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btnNewThread</name>
+   <tag></tag>
+   <elementGuidId>a6684c30-24e8-4a03-bcda-b33ef5375abf</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;navbarNav&quot;]/ul[1]/li[2]/a/button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;navbarNav&quot;]/ul[1]/li[2]/a/button</value>
+      <webElementGuid>fb449e26-b639-4a0b-955f-07fa1784a06a</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

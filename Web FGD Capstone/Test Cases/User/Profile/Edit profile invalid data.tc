@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Edit profile invalid data</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>08c392f2-1b50-4852-a591-3f6163091188</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>10ad7aa6-49e1-4104-b704-43b702144bb7</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>5aa6bf9d-b5d0-498e-8746-46d7af149602</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>ef9344a6-3166-49b0-958d-a2606e02d191</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>6400a610-1b3e-4ff1-9a9b-e46e660bfd7a</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>7652a93d-b8ed-4e6c-944b-1979de615bda</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>7b80f4f0-129b-40f4-aba5-6c8a51df8c97</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>81727701-30d4-4c57-86ec-2674f43e8992</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>c2a4a530-df2c-476f-b297-3f6371f77ac1</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>['@111', '1213']</defaultValue>
+      <description></description>
+      <id>10ad7aa6-49e1-4104-b704-43b702144bb7</id>
+      <masked>false</masked>
+      <name>NamaDepan</name>
+   </variable>
+   <variable>
+      <defaultValue>['@123', '433']</defaultValue>
+      <description></description>
+      <id>5aa6bf9d-b5d0-498e-8746-46d7af149602</id>
+      <masked>false</masked>
+      <name>NamaBelakang</name>
+   </variable>
+   <variable>
+      <defaultValue>['@13345', '1345221']</defaultValue>
+      <description></description>
+      <id>ef9344a6-3166-49b0-958d-a2606e02d191</id>
+      <masked>false</masked>
+      <name>NoHandphone</name>
+   </variable>
+   <variable>
+      <defaultValue>['!yahao.com', '@yahoo.com']</defaultValue>
+      <description></description>
+      <id>6400a610-1b3e-4ff1-9a9b-e46e660bfd7a</id>
+      <masked>false</masked>
+      <name>Email</name>
+   </variable>
+   <variable>
+      <defaultValue>['12-484-3022', '12-19-2021']</defaultValue>
+      <description></description>
+      <id>7652a93d-b8ed-4e6c-944b-1979de615bda</id>
+      <masked>false</masked>
+      <name>TanggalLahir</name>
+   </variable>
+   <variable>
+      <defaultValue>['@133', '123']</defaultValue>
+      <description></description>
+      <id>7b80f4f0-129b-40f4-aba5-6c8a51df8c97</id>
+      <masked>false</masked>
+      <name>Negara</name>
+   </variable>
+   <variable>
+      <defaultValue>['6421', '@1345']</defaultValue>
+      <description></description>
+      <id>81727701-30d4-4c57-86ec-2674f43e8992</id>
+      <masked>false</masked>
+      <name>Kota</name>
+   </variable>
+   <variable>
+      <defaultValue>['!2234', '123Asb']</defaultValue>
+      <description></description>
+      <id>c2a4a530-df2c-476f-b297-3f6371f77ac1</id>
+      <masked>false</masked>
+      <name>KodePos</name>
+   </variable>
+</TestCaseEntity>

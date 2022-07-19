@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>SMAChoice</name>
+   <tag></tag>
+   <elementGuidId>8ca93a11-12ad-40b9-92e6-f829dc4bd591</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>/html/body/div/div/div/div[2]/div[2]/form/div[6]/select/option[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html/body/div/div/div/div[2]/div[2]/form/div[6]/select/option[3]</value>
+      <webElementGuid>e694da84-756c-4c60-96cf-58e0bfc3a1b3</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>
