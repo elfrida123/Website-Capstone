@@ -1,9 +1,9 @@
 name: Capstone Project - QE
 on:
   push:
-    branches: [ main ]
+    branches: [ master ]
   pull_request:
-    branches: [ main ]
+    branches: [ master ]
 jobs:
   build:
     runs-on: windows-latest
